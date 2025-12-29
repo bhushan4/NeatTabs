@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)](#)
 [![GitHub stars](https://img.shields.io/github/stars/bhushan4/NeatTabs?style=social)](https://github.com/bhushan4/NeatTabs/stargazers)
 
-![NeatTabs Banner](https://raw.githubusercontent.com/bhushan4/NeatTabs/main/icons/banner.png)
+![NeatTabs Banner](https://github.com/bhushan4/NeatTabs/blob/main/icons/icon128.png)
 
 ## 🌟 Why NeatTabs?
 
