@@ -40,17 +40,6 @@ Tired of tab overload? NeatTabs is a smart Chrome extension that **automatically
 
 ---
 
-## 📸 Screenshots
-
-| Tab Chaos Before NeatTabs | Organized with NeatTabs |
-|---------------------------|-------------------------|
-| ![Before NeatTabs](https://raw.githubusercontent.com/bhushan4/NeatTabs/main/icons/screenshot-before.png) | ![After NeatTabs](https://raw.githubusercontent.com/bhushan4/NeatTabs/main/icons/screenshot-after.png) |
-
-**Group panel open showing Google services:**
-![Group Panel](https://raw.githubusercontent.com/bhushan4/NeatTabs/main/icons/screenshot-panel.png)
-
----
-
 ## 🚀 Installation
 
 ### Option 1: Chrome Web Store (Recommended)
@@ -201,7 +190,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/bhushan4/NeatTabs/issues)
 - **Email**: [bhushan@example.com](mailto:bhushanvit@gmail.com)
 
 ---
