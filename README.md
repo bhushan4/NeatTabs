@@ -11,14 +11,6 @@
 
 Tired of tab overload? NeatTabs is a smart Chrome extension that **automatically groups tabs from the same website** into organized, collapsible groups. It understands that `mail.google.com`, `drive.google.com`, and `docs.google.com` are all part of your "Google" workspace - and groups them intelligently!
 
-### Before NeatTabs:
-🟥 YouTube | 🟦 Gmail | 🟪 Drive | 🟨 Docs | 🟧 Sheets | 🟩 GitHub | 🟫 Stack Overflow
-
-### After NeatTabs:
-🟦 **Google (5)** | 🟩 **GitHub (1)** | 🟫 **Stack Overflow (1)**
-
-[**Install from Chrome Web Store**](#) | [**Report Bug**](https://github.com/bhushan4/NeatTabs/issues) | [**Request Feature**](https://github.com/bhushan4/NeatTabs/issues)
-
 ---
 
 ## ✨ Features
@@ -210,7 +202,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/bhushan4/NeatTabs/issues)
-- **Email**: [bhushan@example.com](mailto:bhushan@gmail.com)
+- **Email**: [bhushan@example.com](mailto:bhushanvit@gmail.com)
 
 ---
 
