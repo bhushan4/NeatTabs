@@ -3,6 +3,8 @@
   "name": "NeatTabs - Smart Tab Grouping",
   "version": "1.0.0",
   "description": "Automatically organize browser tabs by app into intelligent, collapsible groups",
+  "author": "Bhushan",
+  "homepage_url": "https://github.com/bhushan4/NeatTabs",
   "permissions": [
     "tabs",
     "tabGroups",
