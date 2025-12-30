@@ -1,0 +1,16 @@
+# Source maps (not needed for production)
+*.map
+
+# Build artifacts
+asset-manifest.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies (if you add source code later)
+node_modules/
