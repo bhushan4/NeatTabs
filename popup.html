@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NeatTabs</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <div class="logo">
+        <div class="logo-icon">NT</div>
+        <span class="logo-text">NeatTabs</span>
+      </div>
+      <div class="header-actions">
+        <button id="toggleBtn" class="toggle-btn enabled" title="Toggle grouping">
+          <span class="toggle-icon">✓</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Tab Groups -->
+    <div id="groupsList" class="groups-list">
+      <div class="loading">Loading tabs...</div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <span class="tab-count" id="tabCount">0 tabs</span>
+      <span class="group-count" id="groupCount">0 groups</span>
+    </footer>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
