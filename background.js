@@ -139,7 +139,11 @@ chrome.tabs.onCreated.addListener(async (tab) => {
 // Listen for tab URL updates
 chrome.tabs.onUpdated.addListener(async (tabId, changeInfo, tab) => {
   if (changeInfo.url) {
-    await handleTabGrouping(tab);
+    try {
+      await handleTabGrouping(tab);
+    } catch (error) {
+      console.debug('Tab grouping skipped:', error.message);
+    }
   }
 });
 
